@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] - PriceQuotationApp</title>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <script>
+            window.addEventListener('load', main);
+
+            function main() {
+                window.addEventListener('resize', resizeHandler);
+            }
+
+            function resizeHandler(e) {
+                document.querySelector('title').innerHTML = `${window.innerWidth}x${window.innerHeight}`;
+            }
+        </script>
+    </head>
+    <body>
+        <main class="container-md" role="main">
+            <div class="row">
+                @RenderBody()
+            </div>
+        </main>
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>

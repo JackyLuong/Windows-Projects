@@ -1,0 +1,15 @@
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.deps.json
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.runtimeconfig.json
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.runtimeconfig.dev.json
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\bin\Debug\net5.0\ref\InlandMarinaData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.AssemblyInfo.cs
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\obj\Debug\net5.0\ref\InlandMarinaData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\InlandMarinaData\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.genruntimeconfig.cache

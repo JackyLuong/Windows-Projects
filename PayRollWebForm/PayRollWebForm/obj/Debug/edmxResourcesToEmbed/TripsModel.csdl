@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyTripsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Attraction">
+    <Key>
+      <PropertyRef Name="TripID" />
+      <PropertyRef Name="SeqNo" />
+    </Key>
+    <Property Name="TripID" Type="Int32" Nullable="false" />
+    <Property Name="SeqNo" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Trip" Relationship="Self.FK__Attractio__TripI__267ABA7A" FromRole="Attraction" ToRole="Trip" />
+  </EntityType>
+  <EntityType Name="Trip">
+    <Key>
+      <PropertyRef Name="TripID" />
+    </Key>
+    <Property Name="TripID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Destination" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Accommodation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="StartDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="EndDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Attractions" Relationship="Self.FK__Attractio__TripI__267ABA7A" FromRole="Trip" ToRole="Attraction" />
+  </EntityType>
+  <Association Name="FK__Attractio__TripI__267ABA7A">
+    <End Role="Trip" Type="Self.Trip" Multiplicity="1" />
+    <End Role="Attraction" Type="Self.Attraction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Trip">
+        <PropertyRef Name="TripID" />
+      </Principal>
+      <Dependent Role="Attraction">
+        <PropertyRef Name="TripID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyTripsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Attractions" EntityType="Self.Attraction" />
+    <EntitySet Name="Trips" EntityType="Self.Trip" />
+    <AssociationSet Name="FK__Attractio__TripI__267ABA7A" Association="Self.FK__Attractio__TripI__267ABA7A">
+      <End Role="Trip" EntitySet="Trips" />
+      <End Role="Attraction" EntitySet="Attractions" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

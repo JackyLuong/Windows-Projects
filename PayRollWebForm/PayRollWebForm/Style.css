@@ -1,0 +1,48 @@
+﻿body {
+    background-color: antiquewhite;
+    color: black;
+}
+
+form {
+    background-color: azure;
+    color: black;
+    height: 100%
+}
+
+h1 
+{
+    color: orange;
+    margin-top: 0;
+    padding : 5px;
+}
+
+img 
+{
+    margin-top: 5px;
+    width: 400px;
+    height: auto;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: midnightblue;
+}
+td 
+{
+    padding-top: 10px;
+    color: black;
+}
+.validator
+{
+    color:darkred;
+}
+#txtHours 
+{
+    border: 1px solid;
+    border-color: midnightblue;
+    border-radius: 5px;
+}
+#txtRate 
+{
+    border: 1px solid;
+    border-color: midnightblue;
+    border-radius: 5px;
+}

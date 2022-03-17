@@ -1,0 +1,23 @@
+﻿
+@model InlandMarinaData.Customer
+@{
+    ViewData["Title"] = "Login";
+}
+
+<form class="container text-center" asp-action="Login">
+    <h1>Login</h1>
+    <br />
+    <div class="mt-3">
+        <label asp-for="Username">Username: </label>
+        <input asp-for="Username" type="text" />
+    </div>
+    <br />
+    <div class="mt-3">
+        <label asp-for="Password">Password: </label>
+        <input asp-for="Password" type="text" />
+     </div>
+    <br />
+    <a class="mt-3" asp-action="Create">Sign Up</a>
+    <br />
+    <button class="col-md-2 btn-primary rounded mt-4" type="submit">Login</button>
+</form>

@@ -1,0 +1,15 @@
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\bin\Debug\net5.0\ProductData.deps.json
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\bin\Debug\net5.0\ProductData.runtimeconfig.json
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\bin\Debug\net5.0\ProductData.runtimeconfig.dev.json
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\bin\Debug\net5.0\ProductData.dll
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\bin\Debug\net5.0\ref\ProductData.dll
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\bin\Debug\net5.0\ProductData.pdb
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\obj\Debug\net5.0\ProductData.csproj.AssemblyReference.cache
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\obj\Debug\net5.0\ProductData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\obj\Debug\net5.0\ProductData.AssemblyInfoInputs.cache
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\obj\Debug\net5.0\ProductData.AssemblyInfo.cs
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\obj\Debug\net5.0\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\obj\Debug\net5.0\ProductData.dll
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\obj\Debug\net5.0\ref\ProductData.dll
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\obj\Debug\net5.0\ProductData.pdb
+C:\Users\jacke\source\repos\ProductMaintenance\ProductData\obj\Debug\net5.0\ProductData.genruntimeconfig.cache

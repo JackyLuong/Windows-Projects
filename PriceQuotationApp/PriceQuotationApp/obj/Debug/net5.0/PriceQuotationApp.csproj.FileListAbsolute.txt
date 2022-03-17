@@ -1,0 +1,232 @@
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\appsettings.json
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.exe
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.deps.json
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.runtimeconfig.json
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.runtimeconfig.dev.json
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ref\PriceQuotationApp.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.pdb
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.Views.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.Views.pdb
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.csproj.AssemblyReference.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.AssemblyInfoInputs.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.AssemblyInfo.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.csproj.CoreCompileInputs.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorAssemblyInfo.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorAssemblyInfo.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\staticwebassets\PriceQuotationApp.StaticWebAssets.Manifest.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\staticwebassets\PriceQuotationApp.StaticWebAssets.xml
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\scopedcss\bundle\PriceQuotationApp.styles.css
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.TagHelpers.input.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.TagHelpers.output.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorCoreGenerate.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorTargetAssemblyInfo.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorTargetAssemblyInfo.cs
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.Views.pdb
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\ref\PriceQuotationApp.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.pdb
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.genruntimeconfig.cache
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.csproj.CopyComplete
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Humanizer.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dev\SAIT\OOSD\CPRG214-A-ASP.NET\Day3\Class Exercises\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\appsettings.json
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.exe
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.deps.json
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.runtimeconfig.json
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.runtimeconfig.dev.json
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ref\PriceQuotationApp.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.pdb
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.Views.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\PriceQuotationApp.Views.pdb
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.AssemblyInfo.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorAssemblyInfo.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorAssemblyInfo.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\staticwebassets\PriceQuotationApp.StaticWebAssets.Manifest.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\staticwebassets\PriceQuotationApp.StaticWebAssets.xml
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\scopedcss\bundle\PriceQuotationApp.styles.css
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.TagHelpers.input.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.TagHelpers.output.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorCoreGenerate.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorTargetAssemblyInfo.cache
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.RazorTargetAssemblyInfo.cs
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.Views.pdb
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.csproj.CopyComplete
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\ref\PriceQuotationApp.dll
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.pdb
+C:\Users\jacke\Desktop\PriceQuotationApp\PriceQuotationApp\obj\Debug\net5.0\PriceQuotationApp.genruntimeconfig.cache

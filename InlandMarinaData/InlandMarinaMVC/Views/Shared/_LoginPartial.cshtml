@@ -1,0 +1,32 @@
+﻿<ul class="navbar-nav ml-auto">
+    @if (User.Identity.IsAuthenticated)
+    {
+        <li class="nav-item">
+            <a class="nav-link text-white" asp-controller="Home" asp-action="Index" title="Welcome">
+                Welcome @User.Identity.Name
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-white" asp-controller="Slips" asp-action="customerSlips" title="My Slips">
+                My Slips
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-white" asp-controller="Lease" asp-action="Index" title="Lease">
+                Leases
+            </a>
+        </li>
+        <li class="nav-item">
+            <form class="form-inline" asp-controller="Account" asp-action="Logout"
+                  asp-route-returnUrl=@Url.Action("Index", "Home")>
+                <button type="submit" class="nav-link btn btn-link text-white" id="navLinks">Logout</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link text-white" id="navLinks" asp-controller="Account" asp-action="Login">Login</a>
+        </li>
+    }
+</ul>

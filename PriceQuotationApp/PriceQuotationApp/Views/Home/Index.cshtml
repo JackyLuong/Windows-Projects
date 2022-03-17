@@ -1,0 +1,34 @@
+﻿@model PriceQuotationModel
+@{
+    ViewData["Title"] = "Price Quotation";
+}
+<div class="col-sm-12 col-md-6 mx-sm-0 mx-md-auto mt-3">
+    <h1 class="text-primary text-center">Price Quotation</h1>
+
+    <div class="alert-danger" asp-validation-summary="All">
+    </div>
+    <form class="container" asp-action="Index" method="post">
+        <div class="row mx-3 form-group mt-3">
+            <label asp-for="SubTotal" class="col-lg col-xl-5 h2 text-lg-right mr-lg-3">Sub total:</label>
+            <input asp-for="SubTotal" class="col-lg col-xl-5 p-4 p-md-3 p-lg-2 form-control" />
+        </div>
+        <div class="row mx-3 form-group mt-3">
+            <label asp-for="DiscountPercent" class="col-lg col-xl-5 h2 text-lg-right mr-lg-3">Discount (%):</label>
+            <input asp-for="DiscountPercent" class="col-lg col-xl-5 p-4 p-md-3 p-lg-2 form-control" />
+        </div>
+        <div class="row mx-3 form-group mt-3">
+            <label class="col-lg col-xl-5 h2 text-lg-right mr-lg-3">Discount ($):</label>
+            <input type="text" readonly="readonly" class="col-lg col-xl-5 p-4 p-md-3 p-lg-2 form-control" value="@ViewBag.Discount.ToString("c")" />
+        </div>
+        <div class="row mx-3 form-group mt-3">
+            <label class="col-lg col-xl-5 h2 text-lg-right mr-lg-3">Total:</label>
+            <input type="text" readonly="readonly" class="col-lg col-xl-5 p-4 p-md-3 p-lg-2 form-control" value="@ViewBag.Total.ToString("c")" />
+        </div>
+        <div class="row mx-3 mt-3">
+            <button type="submit" class="col-md col-lg-6 p-4 p-md-3 p-lg-2 btn btn-outline-primary btn-block mx-auto">Calculate</button>
+        </div>
+    </form>
+</div>
+
+
+

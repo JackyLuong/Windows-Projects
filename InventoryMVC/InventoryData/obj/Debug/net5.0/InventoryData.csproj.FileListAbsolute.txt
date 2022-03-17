@@ -1,0 +1,15 @@
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\bin\Debug\net5.0\InventoryData.deps.json
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\bin\Debug\net5.0\InventoryData.runtimeconfig.json
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\bin\Debug\net5.0\InventoryData.runtimeconfig.dev.json
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\bin\Debug\net5.0\InventoryData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\bin\Debug\net5.0\ref\InventoryData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\bin\Debug\net5.0\InventoryData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\obj\Debug\net5.0\InventoryData.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\obj\Debug\net5.0\InventoryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\obj\Debug\net5.0\InventoryData.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\obj\Debug\net5.0\InventoryData.AssemblyInfo.cs
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\obj\Debug\net5.0\InventoryData.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\obj\Debug\net5.0\InventoryData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\obj\Debug\net5.0\ref\InventoryData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\obj\Debug\net5.0\InventoryData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\InventoryMVC\InventoryData\obj\Debug\net5.0\InventoryData.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\bin\Debug\net5.0\MoviesData.deps.json
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\bin\Debug\net5.0\MoviesData.runtimeconfig.json
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\bin\Debug\net5.0\MoviesData.runtimeconfig.dev.json
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\bin\Debug\net5.0\MoviesData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\bin\Debug\net5.0\ref\MoviesData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\bin\Debug\net5.0\MoviesData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\obj\Debug\net5.0\MoviesData.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\obj\Debug\net5.0\MoviesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\obj\Debug\net5.0\MoviesData.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\obj\Debug\net5.0\MoviesData.AssemblyInfo.cs
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\obj\Debug\net5.0\MoviesData.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\obj\Debug\net5.0\MoviesData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\obj\Debug\net5.0\ref\MoviesData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\obj\Debug\net5.0\MoviesData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\MoviesApp\MoviesData\obj\Debug\net5.0\MoviesData.genruntimeconfig.cache
